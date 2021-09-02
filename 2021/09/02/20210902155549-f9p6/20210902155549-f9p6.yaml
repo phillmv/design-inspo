@@ -1,21 +1,21 @@
 ---
 notebook: design-inspo
-body: DRAFT
-metadata: {}
+identifier: 20210902155549-f9p6
+body: "![image.png](/phillmv/design-inspo/20210902155549-f9p6/files/image.png)\r\n"
+hide: false
 kind:
+subject:
+occurred_at: 2021-09-02 15:55:49.000000000 -04:00
+metadata: {}
 source:
 url:
 latitude:
 longitude:
-occurred_at: 2021-09-02 19:55:50.446715000 +00:00
 ended_at:
-created_at: 2021-09-02 19:55:50.446629000 +00:00
-updated_at: 2021-09-02 19:55:50.446629000 +00:00
+created_at: 2021-09-02 15:55:50.446629000 -04:00
+updated_at: 2021-09-02 15:56:05.639513000 -04:00
 summary:
-identifier: 20210902155549-f9p6
-subject:
 from:
 to:
 in_reply_to:
 state:
-hide: false
