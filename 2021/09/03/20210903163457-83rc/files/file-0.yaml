@@ -1,0 +1,14 @@
+---
+notebook: design-inspo
+entry_identifier: 20210903163457-83rc
+key: 8wda8r15f0q6z3ocds5a3ixknbay
+filename: image.png
+content_type: image/png
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+byte_size: 1738915
+checksum: Rxdd+BNx4zq8Igb3/G4ALw==
+created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-09-03 20:35:01.251814000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/New_York
+  time: 2021-09-03 16:35:01.251814000 Z
