@@ -4,7 +4,9 @@ entry_identifier: 20210903164419-pjj
 key: g0zd1xes9k7cc0k4eam5mh9mrpju
 filename: image2.png
 content_type: image/png
-metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  identified: true
+  analyzed: true
 byte_size: 642045
 checksum: Y2RlhFdtXgN1QF09zt8AXg==
 created_at: !ruby/object:ActiveSupport::TimeWithZone
