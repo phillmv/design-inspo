@@ -1,14 +1,14 @@
 ---
 notebook: design-inspo
 identifier: 20210902161213-g8pv
-body: "http://therenoprojects.com/kitchen-design-101/\r\n\r\n>Any walk through area
-  in a kitchen should be no less than 36″ wide. In this example, I had to consider
-  the door of the stove opening as well as someone standing to open it. 36″ should
-  be allocated on either side of an island, peninsula or any walk through area.\r\n\r\nseating\r\n>Each
-  person needs at least 24″ of space when sitting, with a 12″-14″ overhang for leg
-  space. \r\n\r\n>One final tip is to remember the working triangle in your kitchen.
-  This triangle ensures your fridge, stove and sink are at a comfortable distance
-  away from each other to perform tasks.\r\n\r\nhttps://www.cliqstudios.com/kitchen-design-principles/\r\n\r\nsymmetry,
+body: "# Quick Investigation Into Kitchen Design Principles\r\nhttp://therenoprojects.com/kitchen-design-101/\r\n\r\n>Any
+  walk through area in a kitchen should be no less than 36″ wide. In this example,
+  I had to consider the door of the stove opening as well as someone standing to open
+  it. 36″ should be allocated on either side of an island, peninsula or any walk through
+  area.\r\n\r\nseating\r\n>Each person needs at least 24″ of space when sitting, with
+  a 12″-14″ overhang for leg space. \r\n\r\n>One final tip is to remember the working
+  triangle in your kitchen. This triangle ensures your fridge, stove and sink are
+  at a comfortable distance away from each other to perform tasks.\r\n\r\nhttps://www.cliqstudios.com/kitchen-design-principles/\r\n\r\nsymmetry,
   focal points\r\n\r\n![image.png](/phillmv/design-inspo/20210902161213-g8pv/files/image.png)\r\n\r\nhttps://homedesigntutorials.com/2017/10/14/kitchen-design-principles/\r\n\r\n>The
   two main principles in kitchen design are the work sequence and the kitchen triangle.
   \r\n\r\nThe work sequence is the order of activities involved in preparing food.
@@ -27,7 +27,7 @@ body: "http://therenoprojects.com/kitchen-design-101/\r\n\r\n>Any walk through a
   6.5 meters.\r\n\r\nhttp://starcraftcustombuilders.com/kitchen.design.rules.htm\r\n\r\n![image2.png](/phillmv/design-inspo/20210902161213-g8pv/files/image2.png)\r\n\r\n![image3.png](/phillmv/design-inspo/20210902161213-g8pv/files/image3.png)\r\n\r\n![image4.png](/phillmv/design-inspo/20210902161213-g8pv/files/image4.png)\r\n\r\n![image5.png](/phillmv/design-inspo/20210902161213-g8pv/files/image5.png)"
 hide: false
 kind:
-subject:
+subject: Quick Investigation Into Kitchen Design Principles
 occurred_at: 2021-09-02 16:12:13.000000000 -04:00
 metadata: {}
 source:
@@ -36,7 +36,7 @@ latitude:
 longitude:
 ended_at:
 created_at: 2021-09-02 16:16:04.458128000 -04:00
-updated_at: 2021-09-02 16:31:48.848110000 -04:00
+updated_at: 2021-09-03 16:00:18.940967000 -04:00
 summary:
 from:
 to:

@@ -4,7 +4,9 @@ entry_identifier: 20210902161213-g8pv
 key: ao2vqpdlhfztzkxfod5ukjabk3ie
 filename: image5.png
 content_type: image/png
-metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  identified: true
+  analyzed: true
 byte_size: 424254
 checksum: zA5TAbwKGDVnukzPcWlsvQ==
 created_at: !ruby/object:ActiveSupport::TimeWithZone
