@@ -1,23 +1,26 @@
 ---
 notebook: design-inspo
+identifier: 20211105163935-6299
 body: "# Kitchen Design Exploration\r\n\r\nGoals:\r\n\r\n- Per [[20210902161213-g8pv]],
   explore the ~5 different kinds of layouts in our setting\r\n- Explore taking down
-  the kitchen wall in layout\r\n- What about the bsmt entrance?"
-metadata: {}
+  the kitchen wall in layout\r\n  - basically, how do people think about interior
+  walls? am i being ridiculous?\r\n- What about the bsmt entrance? can we incorporate
+  it somehow?\r\n\r\nPretty mechanical: just try each kind of layout for size, then
+  rinse and repeat without the interior walls."
+hide: false
 kind:
+subject: Kitchen Design Exploration
+occurred_at: 2021-11-05 16:39:35.000000000 -04:00
+metadata: {}
 source:
 url:
 latitude:
 longitude:
-occurred_at: 2021-11-05 16:39:35.000000000 -04:00
 ended_at:
 created_at: 2021-11-05 16:42:08.436823000 -04:00
-updated_at: 2021-11-05 16:42:08.436823000 -04:00
+updated_at: 2021-11-05 16:55:17.525518000 -04:00
 summary:
-identifier: 20211105163935-6299
-subject: Kitchen Design Exploration
 from:
 to:
 in_reply_to:
 state:
-hide: false
