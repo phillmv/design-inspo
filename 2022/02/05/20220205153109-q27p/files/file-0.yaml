@@ -4,7 +4,9 @@ entry_identifier: 20220205153109-q27p
 key: qr5amfg7kxvyvqg2bdt732lmludg
 filename: IMG_7228.JPG
 content_type: image/jpeg
-metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  identified: true
+  analyzed: true
 byte_size: 256841
 checksum: 97LTiTxATFhqqP8NNP2HjA==
 created_at: !ruby/object:ActiveSupport::TimeWithZone
