@@ -1,21 +1,21 @@
 ---
 notebook: design-inspo
-body: DRAFT
-metadata: {}
+identifier: 20220205153149-9j9x
+body: "![IMG_7230.JPG](/phillmv/design-inspo/20220205153149-9j9x/files/IMG_7230.JPG)"
+hide: false
 kind:
+subject:
+occurred_at: 2022-02-05 15:31:49.000000000 -05:00
+metadata: {}
 source:
 url:
 latitude:
 longitude:
-occurred_at: 2022-02-05 20:31:50.810767000 +00:00
 ended_at:
-created_at: 2022-02-05 20:31:50.810676000 +00:00
-updated_at: 2022-02-05 20:31:50.810676000 +00:00
+created_at: 2022-02-05 15:31:50.810676000 -05:00
+updated_at: 2022-02-05 15:31:52.820925000 -05:00
 summary:
-identifier: 20220205153149-9j9x
-subject:
 from:
 to:
 in_reply_to:
 state:
-hide: false
