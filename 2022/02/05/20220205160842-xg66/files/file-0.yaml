@@ -4,7 +4,9 @@ entry_identifier: 20220205160842-xg66
 key: sj3wr35o95fhkfey1uba5wgg1v9k
 filename: current-first-floor-kitchen-experiments-2022-01-22-bottom-u.png
 content_type: image/png
-metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  identified: true
+  analyzed: true
 byte_size: 67831
 checksum: 7/bwsFv4lVY7A333MUtO9g==
 created_at: !ruby/object:ActiveSupport::TimeWithZone
