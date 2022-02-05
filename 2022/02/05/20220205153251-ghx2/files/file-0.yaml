@@ -4,7 +4,9 @@ entry_identifier: 20220205153251-ghx2
 key: 8ml6pu8hv310h9173cywta72d9gt
 filename: IMG_7234.JPG
 content_type: image/jpeg
-metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+metadata: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  identified: true
+  analyzed: true
 byte_size: 198649
 checksum: hAZyGb97pzr9ZYS0hMCk3w==
 created_at: !ruby/object:ActiveSupport::TimeWithZone
