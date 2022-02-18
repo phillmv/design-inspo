@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>http://example.com/atom.xml</id>
+  <link rel="alternate" type="text/html" href="http://example.com/"/>
+  <link rel="self" type="application/atom+xml" href="http://example.com/atom.xml"/>
+  <title>This is a default title.</title>
+  <updated>2022-02-05T21:08:42Z</updated>
+  <author>
+    <name>Example Author Name</name>
+  </author>
+  <entry>
+    <id>http://example.com/20220205160842-xg66</id>
+    <published>2022-02-05T21:08:42Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205160842-xg66"/>
+    <title>Kitchen Design Exploration 2022-02-05</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:39"&gt;
+&lt;a id="kitchen-design-exploration-2022-02-05" class="anchor" href="#kitchen-design-exploration-2022-02-05" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Kitchen Design Exploration 2022-02-05&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:131"&gt;I've really been struggling with how to think about layouts. It's hard! Hard visualization skill. Here are some random experiments:&lt;/p&gt;
+&lt;p data-sourcepos="5:1-5:179"&gt;&lt;a href="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-experiments-2022-01-22-bottom-u.png" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-experiments-2022-01-22-bottom-u.png" alt="current-first-floor-kitchen-experiments-2022-01-22-bottom-u.png" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="7:1-7:175"&gt;&lt;a href="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-experiments-2022-01-22-single.png" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-experiments-2022-01-22-single.png" alt="current-first-floor-kitchen-experiments-2022-01-22-single.png" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="9:1-9:173"&gt;&lt;a href="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-experiments-2022-01-22-top-u.png" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-experiments-2022-01-22-top-u.png" alt="current-first-floor-kitchen-experiments-2022-01-22-top-u.png" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="11:1-11:54"&gt;not very good, hard to get my brain in the right zone.&lt;/p&gt;
+&lt;p data-sourcepos="13:1-13:155"&gt;&lt;a href="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-bottom-u-2022-02-05.png" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-bottom-u-2022-02-05.png" alt="current-first-floor-kitchen-bottom-u-2022-02-05.png" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="15:1-15:151"&gt;&lt;a href="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-galley-2022-02-05.png" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205160842-xg66/files/current-first-floor-kitchen-galley-2022-02-05.png" alt="current-first-floor-kitchen-galley-2022-02-05.png" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153251-ghx2</id>
+    <published>2022-02-05T20:32:51Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153251-ghx2"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7234.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7234.JPG" alt="IMG_7234.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="3:1-3:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7235.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7235.JPG" alt="IMG_7235.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="5:1-5:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7236.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7236.JPG" alt="IMG_7236.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="7:1-7:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7237.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7237.JPG" alt="IMG_7237.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="9:1-9:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7238.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7238.JPG" alt="IMG_7238.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p data-sourcepos="11:1-11:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7239.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153251-ghx2/files/IMG_7239.JPG" alt="IMG_7239.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153247-62cj</id>
+    <published>2022-02-05T20:32:47Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153247-62cj"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153247-62cj/files/IMG_7233.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153247-62cj/files/IMG_7233.JPG" alt="IMG_7233.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153205-fhg6</id>
+    <published>2022-02-05T20:32:05Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153205-fhg6"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153205-fhg6/files/IMG_7232.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153205-fhg6/files/IMG_7232.JPG" alt="IMG_7232.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153156-9r4w</id>
+    <published>2022-02-05T20:31:56Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153156-9r4w"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153156-9r4w/files/IMG_7231.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153156-9r4w/files/IMG_7231.JPG" alt="IMG_7231.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153149-9j9x</id>
+    <published>2022-02-05T20:31:49Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153149-9j9x"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153149-9j9x/files/IMG_7230.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153149-9j9x/files/IMG_7230.JPG" alt="IMG_7230.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153142-4fmw</id>
+    <published>2022-02-05T20:31:42Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153142-4fmw"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153142-4fmw/files/IMG_7229.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153142-4fmw/files/IMG_7229.JPG" alt="IMG_7229.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220205153109-q27p</id>
+    <published>2022-02-05T20:31:09Z</published>
+    <updated>2022-02-18T19:58:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220205153109-q27p"/>
+    <title/>
+    <content type="html">&lt;p data-sourcepos="1:1-1:77"&gt;&lt;a href="/phillmv/design-inspo/20220205153109-q27p/files/IMG_7228.JPG" target="_blank"&gt;&lt;img src="/phillmv/design-inspo/20220205153109-q27p/files/IMG_7228.JPG" alt="IMG_7228.JPG" style="max-width:100%;"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20220122171028-qqxq</id>
+    <published>2022-01-22T22:10:28Z</published>
+    <updated>2022-01-23T02:04:44Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20220122171028-qqxq"/>
+    <title>Kitchen Design Exploration 2022-01-22</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:39"&gt;
+&lt;a id="kitchen-design-exploration-2022-01-22" class="anchor" href="#kitchen-design-exploration-2022-01-22" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Kitchen Design Exploration 2022-01-22&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:40"&gt;okay let's do this one layout at a time.&lt;/p&gt;
+&lt;p data-sourcepos="5:1-5:56"&gt;i generated a clean version of our kitchen in photoshop.&lt;/p&gt;
+&lt;ul data-sourcepos="7:1-12:0"&gt;
+&lt;li data-sourcepos="7:1-12:0"&gt;let's assume we keep the entrance where it is for now.
+&lt;ul data-sourcepos="8:3-12:0"&gt;
+&lt;li data-sourcepos="8:3-8:31"&gt;people come in thru mudroom&lt;/li&gt;
+&lt;li data-sourcepos="9:3-9:39"&gt;they take off boots, put up jackets&lt;/li&gt;
+&lt;li data-sourcepos="10:3-10:13"&gt;storage??&lt;/li&gt;
+&lt;li data-sourcepos="11:3-12:0"&gt;bigger window somehow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-sourcepos="13:1-14:61"&gt;walk northward thru the space it doesn't turn into a dead cubby hole of junk&lt;br&gt;
+i'd been envisioning a low wall or bar but what if it's open?&lt;/p&gt;
+&lt;p data-sourcepos="16:1-16:144"&gt;like even on a design level what literally are my options for placing the kitchen? just mechanically even without thinking about it too much it.&lt;/p&gt;
+&lt;p data-sourcepos="18:1-18:20"&gt;there's single wall.&lt;/p&gt;
+&lt;p data-sourcepos="20:1-20:24"&gt;okay sketched a version.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>http://example.com/20211105163935-6299</id>
+    <published>2021-11-05T20:39:35Z</published>
+    <updated>2021-11-05T20:55:17Z</updated>
+    <link rel="alternate" type="text/html" href="http://example.com/20211105163935-6299"/>
+    <title>Kitchen Design Exploration</title>
+    <content type="html">&lt;h1 data-sourcepos="1:1-1:28"&gt;
+&lt;a id="kitchen-design-exploration" class="anchor" href="#kitchen-design-exploration" aria-hidden="true"&gt;&lt;span aria-hidden="true" class="octicon octicon-link"&gt;&lt;/span&gt;&lt;/a&gt;Kitchen Design Exploration&lt;/h1&gt;
+&lt;p data-sourcepos="3:1-3:6"&gt;Goals:&lt;/p&gt;
+&lt;ul data-sourcepos="5:1-9:0"&gt;
+&lt;li data-sourcepos="5:1-5:87"&gt;Per &lt;a href="/20210902161213-g8pv"&gt;Quick Investigation Into #Kitchen Design Principles&lt;/a&gt;, explore the ~5 different kinds of layouts in our setting&lt;/li&gt;
+&lt;li data-sourcepos="6:1-7:79"&gt;Explore taking down the kitchen wall in layout
+&lt;ul data-sourcepos="7:3-7:79"&gt;
+&lt;li data-sourcepos="7:3-7:79"&gt;basically, how do people think about interior walls? am i being ridiculous?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li data-sourcepos="8:1-9:0"&gt;What about the bsmt entrance? can we incorporate it somehow?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p data-sourcepos="10:1-10:107"&gt;Pretty mechanical: just try each kind of layout for size, then rinse and repeat without the interior walls.&lt;/p&gt;</content>
+  </entry>
+</feed>
